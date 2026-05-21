@@ -5,3 +5,7 @@
 __pycache__/
 *.py[cod]
 .venv/
+.claude/
+bin/
+dotenv/
+python_dotenv-1.2.2.dist-info/
